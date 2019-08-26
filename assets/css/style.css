@@ -1,0 +1,26 @@
+body {
+    background-color:fafafa;
+    font-family:Nobile sans-serif;
+}
+
+.callout-jumbotron {
+   height:100vh;
+     
+    background: url("../images/Wrest Park.jpg") no-repeat bottom right fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+h1 {
+
+    padding-top: 5%;
+
+    font-size: 5.5em;
+
+}
+
+.p lead {
+    font-size:2em;
+}
